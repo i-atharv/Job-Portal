@@ -10,7 +10,6 @@
         "src": "/(.*)",
         "dest": "api/index.js"
       }
-    ],
-    "ignoreCommand": "echo 'Ignoring server.js for Vercel deployment'"
+    ]
   }
   
